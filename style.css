@@ -1,0 +1,21 @@
+img {
+  position: absolute;
+  top: 0%;
+  bottom: 20%%;
+  left: 30%;
+  right: 10%;
+} 
+h1 {
+  color: #aa7829;
+  text-align: 100px;
+  position: absolute;
+  bottom: 15%;
+  top: 35%;
+}
+p {
+  color: #aa1089;
+  text-align: 100px;
+  position: absolute;
+  bottom: 10%;
+  top: 40%;
+}
